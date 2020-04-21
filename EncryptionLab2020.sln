@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.645
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EncryptionLab2020", "EncryptionLab2020\EncryptionLab2020.csproj", "{A0F3034F-04A8-4871-A1A2-BF132F9C1873}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EncryptionLab2020Tests", "EncryptionLab2020Tests\EncryptionLab2020Tests.csproj", "{13CC3A56-F4B8-40EF-A2AA-E3F0CCC99CDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0F3034F-04A8-4871-A1A2-BF132F9C1873}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0F3034F-04A8-4871-A1A2-BF132F9C1873}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0F3034F-04A8-4871-A1A2-BF132F9C1873}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0F3034F-04A8-4871-A1A2-BF132F9C1873}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13CC3A56-F4B8-40EF-A2AA-E3F0CCC99CDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13CC3A56-F4B8-40EF-A2AA-E3F0CCC99CDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13CC3A56-F4B8-40EF-A2AA-E3F0CCC99CDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13CC3A56-F4B8-40EF-A2AA-E3F0CCC99CDB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EDEF18B9-8E47-478B-93F3-E68D57CB9C13}
+	EndGlobalSection
+EndGlobal
